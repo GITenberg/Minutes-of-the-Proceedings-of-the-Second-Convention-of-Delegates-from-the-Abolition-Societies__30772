@@ -11,6 +11,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30772#Minutes-of-the-Proceedings-of-the-Second-Convention-of-Delegates-from-the-Abolition-Societies_
 gutenberg_issued: '2009-12-27'
 gutenberg_type: Text
 identifiers:
