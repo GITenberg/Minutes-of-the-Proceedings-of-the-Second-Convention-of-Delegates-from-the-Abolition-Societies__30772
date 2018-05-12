@@ -1,0 +1,35 @@
+_repo: Minutes-of-the-Proceedings-of-the-Second-Convention-of-Delegates-from-the-Abolition-Societies__30772
+_version: 0.1.0
+contributor:
+  printer:
+    agent_name: Poulson, Zachariah
+    birthdate: 1761
+    deathdate: 1844
+    gutenberg_agent_id: '34819'
+    url: http://www.gutenberg.org/2009/agents/34819
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2009-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Antislavery movements -- United States'
+- !lcc 'E300'
+title: 'Minutes of the Proceedings of the Second Convention of Delegates from the
+  Abolition Societies Established in Different Parts of the United States
+
+  Assembled at Philadelphia, on the seventh day of January,
+
+  one thousand seven hundred and ninety-five, and continued,
+
+  by adjournments, until the fourteenth day of the same
+
+  month, inclusive'
+url: http://www.gutenberg.org/ebooks/30772
